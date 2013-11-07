@@ -1,0 +1,24 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"C:\Users\Nikolas\Documents\Universiteit\1e Master Computerwetenschappen 2012 - 2013\Ontwerp van multimediatoepassingen\Lab_sessions\Video_shot_detection_annotation_and_retrieval\Test_files\return_jedi_trailer_cuts-only.avi" 1 2 2 2</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>"C:\Users\Nikolas\Documents\Universiteit\1e Master Computerwetenschappen 2012 - 2013\Ontwerp van multimediatoepassingen\Lab_sessions\Video_shot_detection_annotation_and_retrieval\Test_files\return_jedi_trailer_cuts-only.avi" 1 2 2 2</StartArguments>
+  </PropertyGroup>
+</Project>

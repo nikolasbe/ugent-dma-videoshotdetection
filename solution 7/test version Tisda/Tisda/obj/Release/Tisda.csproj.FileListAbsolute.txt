@@ -1,0 +1,42 @@
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Release\ResolveAssemblyReference.cache
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Release\Tisda.FormTisda.resources
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Release\Tisda.Properties.Resources.resources
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Release\Tisda.csproj.GenerateResource.Cache
+H:\Visual Studio 2008\Projects\Tisda\Tisda\bin\Release\Tisda.exe
+H:\Visual Studio 2008\Projects\Tisda\Tisda\bin\Release\Tisda.pdb
+H:\Visual Studio 2008\Projects\Tisda\Tisda\bin\Release\DirectShowLib-2005.dll
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Release\Tisda.exe
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Release\Tisda.pdb
+C:\Users\Nikolas\Development\C#\Tisda\bin\Release\Tisda.exe
+C:\Users\Nikolas\Development\C#\Tisda\bin\Release\Tisda.pdb
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.FormTisda.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.Properties.Resources.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.csproj.GenerateResource.Cache
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.exe
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.pdb
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.KeywordsForm.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.Method1Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.Method5Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.Method6Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.Method2Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.Method3Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Release\Tisda.Method4Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.FormTisda.resources
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.KeywordsForm.resources
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.Method1Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.Method2Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.Method3Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.Method4Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.Method5Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.Method6Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.Properties.Resources.resources
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.XMLComparatorForm.resources
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.csproj.GenerateResource.Cache
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.exe
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\bin\Release\Tisda.exe
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\bin\Release\Tisda.pdb
+C:\Users\Nikolas\Development\C#\Tisda - commandline support\Tisda\obj\Release\Tisda.pdb
+C:\Users\Nikolas\Development\C#\Tisda - testversie\Tisda\obj\Release\Tisda.exe
+C:\Users\Nikolas\Development\C#\Tisda - testversie\Tisda\obj\Release\Tisda.pdb
