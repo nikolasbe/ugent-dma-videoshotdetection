@@ -1,0 +1,59 @@
+H:\Visual Studio 2008\Projects\Tisda\Tisda\bin\Debug\Tisda.exe
+H:\Visual Studio 2008\Projects\Tisda\Tisda\bin\Debug\Tisda.pdb
+H:\Visual Studio 2008\Projects\Tisda\Tisda\bin\Debug\DirectShowLib-2005.dll
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Debug\ResolveAssemblyReference.cache
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Debug\Tisda.FormTisda.resources
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Debug\Tisda.Properties.Resources.resources
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Debug\Tisda.csproj.GenerateResource.Cache
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Debug\Tisda.exe
+H:\Visual Studio 2008\Projects\Tisda\Tisda\obj\Debug\Tisda.pdb
+C:\Users\Nikolas\Desktop\Tisda_v4\Tisda\Tisda\obj\Debug\Tisda.exe
+C:\Users\Nikolas\Desktop\Tisda_v4\Tisda\Tisda\obj\Debug\Tisda.pdb
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.exe
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.pdb
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.FormTisda.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.Properties.Resources.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.csproj.GenerateResource.Cache
+C:\Users\Nikolas\Development\C#\Tisda\bin\Debug\Tisda.exe
+C:\Users\Nikolas\Development\C#\Tisda\bin\Debug\Tisda.pdb
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.KeywordsForm.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.Method1Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.Method5Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.Method6Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.Method2Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.Method3Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.Method4Panel.resources
+C:\Users\Nikolas\Development\C#\Tisda\obj\Debug\Tisda.XMLComparatorForm.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.exe
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\bin\Debug\Tisda.exe
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\bin\Debug\Tisda.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.FormTisda.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.KeywordsForm.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.Method1Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.Method2Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.Method3Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.Method4Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.Method5Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.Method6Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.Properties.Resources.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.XMLComparatorForm.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_GUI_ok_Commentaar_ok_Timing_ok\Tisda\obj\Debug\Tisda.csproj.GenerateResource.Cache
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.exe
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\bin\Debug\Tisda.exe
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\bin\Debug\Tisda.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.FormTisda.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.KeywordsForm.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.Method1Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.Method2Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.Method3Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.Method4Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.Method5Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.Method6Panel.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.Properties.Resources.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.XMLComparatorForm.resources
+C:\Users\Jeroen\Documents\Visual Studio 2008\Projects\Tisda_5dec_23u\Tisda\obj\Debug\Tisda.csproj.GenerateResource.Cache

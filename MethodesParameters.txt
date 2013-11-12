@@ -1,0 +1,29 @@
+StartMethod1()
+-> int delta2  (0-3*265)
+-> double delta3 (0.0-1.0)
+
+StartMethod2()
+-> double threshold (0.0 - 1.0)
+-> int block_size (2x2, 4x4, 8x8, 16x16)(zijde teruggeven)
+-> int window_size unconstrained
+
+StartMethod3()
+-> double threshold (0.0 - 1.0)
+-> int block_size (2x2, 4x4, 8x8, 16x16)(zijde teruggeven)
+-> int step [moet een macht van twee zijn]
+
+StartMethod4()
+-> double threshold (0.0-1.0)
+-> int bins (1-255)
+
+StartMethod5()
+-> double threshold (0.0-1.0)
+-> int bins (1 - 255)
+-> int region_size (2x2, 4x4, 8x8, 16x16)(vermenigvuldiging teruggeven)
+
+StartMethod6()
+-> double threshold (0.0-1.0)
+double var (0.0-1.0)
+int bins (1-255)
+int region size (2x2, 4x4, 8x8, 16x16)(vermenigvuldiging teruggeven)
+int buffer (>0) [remark: buffer size equals minimal detectable shotlength)
